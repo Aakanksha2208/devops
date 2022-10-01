@@ -1,1 +1,5 @@
-abcd
+" 1) Create 2 branches
+2) Add Files and Content to those branches
+3) merge 1st branch to main branch through PR
+4) merge main branch to 2nd branch (once step 3 is done)
+5) commit 2nd branch to remote and merge to main (via PR)"
